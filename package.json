@@ -1,0 +1,15 @@
+{
+  "name": "cufaudeui.css",
+  "version": "1.0.0",
+  "description": "CSS framework for use by Cufaude",
+  "main": "css/cufaudeui.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "Edward Cufaude",
+  "license": "ISC",
+  "dependencies": {}
+}
