@@ -1,7 +1,7 @@
 {
   "name": "cufaudeui.css",
   "version": "1.0.0",
-  "description": "CSS framework for use by Cufaude",
+  "description": "Cufaude UI is a simple CSS UI Framework.",
   "main": "css/cufaudeui.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
